@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://daydreamcat.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: MyTest | My Octopress Blog]]></title>
+  <link href="http://daydreamcat.github.io/blog/categories/mytest/atom.xml" rel="self"/>
   <link href="http://daydreamcat.github.io/"/>
   <updated>2014-03-14T21:46:45+08:00</updated>
   <id>http://daydreamcat.github.io/</id>
@@ -22,9 +22,9 @@
 
 <p><strong>Test Bold </strong></p>
 
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>Hello World</span></code></pre></td></tr></table></div></figure>
-
+<p><code>
+Hello World
+</code></p>
 
 <ul>
 <li>List 1 <code>label trying</code></li>
