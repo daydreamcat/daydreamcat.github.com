@@ -4,7 +4,7 @@
   <title><![CDATA[Daydreaming Life]]></title>
   <link href="http://daydreamcat.github.io/atom.xml" rel="self"/>
   <link href="http://daydreamcat.github.io/"/>
-  <updated>2014-03-14T22:49:28+08:00</updated>
+  <updated>2014-03-14T23:08:11+08:00</updated>
   <id>http://daydreamcat.github.io/</id>
   <author>
     <name><![CDATA[daydreamcat]]></name>
@@ -18,7 +18,10 @@
     <link href="http://daydreamcat.github.io/blog/2014/03/14/my-first-post/"/>
     <updated>2014-03-14T21:22:17+08:00</updated>
     <id>http://daydreamcat.github.io/blog/2014/03/14/my-first-post</id>
-    <content type="html"><![CDATA[<h3>Octopress First Trying</h3>
+    <content type="html"><![CDATA[<!--more-->
+
+
+<h3>Octopress First Trying</h3>
 
 <p><strong>Test Bold </strong></p>
 
@@ -30,6 +33,10 @@
 <li>List 1 <code>label trying</code></li>
 </ul>
 
+
+<h2>Still Trying</h2>
+
+<p>HI</p>
 ]]></content>
   </entry>
   
