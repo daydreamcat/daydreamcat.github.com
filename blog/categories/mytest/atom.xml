@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: MyTest | My Octopress Blog]]></title>
+  <title><![CDATA[Category: MyTest | Daydreaming Life]]></title>
   <link href="http://daydreamcat.github.io/blog/categories/mytest/atom.xml" rel="self"/>
   <link href="http://daydreamcat.github.io/"/>
-  <updated>2014-03-14T21:46:45+08:00</updated>
+  <updated>2014-03-14T22:49:28+08:00</updated>
   <id>http://daydreamcat.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[daydreamcat]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
